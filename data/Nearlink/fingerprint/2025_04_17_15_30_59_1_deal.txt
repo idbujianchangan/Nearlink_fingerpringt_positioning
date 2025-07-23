@@ -1,0 +1,2608 @@
+Timestamp: 2025-04-17 15:30:59.062157
+MAC: 33:22:33:44:55:66, Average RSSI: -70.89 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.63 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.84 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.03 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.42 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.20 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -50.11 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.74 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.26 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.59 dBm
+
+Timestamp: 2025-04-17 15:30:59.562981
+MAC: 44:22:33:44:55:66, Average RSSI: -79.56 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.33 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.45 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -58.18 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.76 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -49.38 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.34 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.97 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.75 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:31:00.063969
+MAC: 99:22:33:44:55:66, Average RSSI: -78.30 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.08 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.06 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -50.28 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.45 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.81 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.24 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.26 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.26 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.35 dBm
+
+Timestamp: 2025-04-17 15:31:00.587727
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -49.00 dBm
+
+Timestamp: 2025-04-17 15:31:01.103914
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -54.00 dBm
+
+Timestamp: 2025-04-17 15:31:01.619968
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -52.00 dBm
+
+Timestamp: 2025-04-17 15:31:02.140068
+MAC: 44:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -50.00 dBm
+
+Timestamp: 2025-04-17 15:31:02.641876
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+
+Timestamp: 2025-04-17 15:31:03.145349
+MAC: 11:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:31:03.658012
+MAC: 11:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:31:04.158333
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+
+Timestamp: 2025-04-17 15:31:04.683950
+MAC: 11:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+
+Timestamp: 2025-04-17 15:31:05.200948
+MAC: 11:22:33:44:55:66, Average RSSI: -44.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:31:05.708337
+MAC: 11:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:31:06.222966
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:06.756557
+MAC: 11:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+
+Timestamp: 2025-04-17 15:31:07.268437
+MAC: 11:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+
+Timestamp: 2025-04-17 15:31:07.784954
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -91.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -58.00 dBm
+
+Timestamp: 2025-04-17 15:31:08.302855
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -52.00 dBm
+
+Timestamp: 2025-04-17 15:31:08.847686
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -53.00 dBm
+
+Timestamp: 2025-04-17 15:31:09.372037
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -47.00 dBm
+
+Timestamp: 2025-04-17 15:31:09.970365
+MAC: 11:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -45.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+
+Timestamp: 2025-04-17 15:31:10.504265
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -51.00 dBm
+
+Timestamp: 2025-04-17 15:31:11.007572
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:11.520083
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:31:12.037596
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:12.538284
+MAC: 44:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:13.114447
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:31:13.621975
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:31:14.127691
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+
+Timestamp: 2025-04-17 15:31:14.638234
+MAC: 99:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:31:15.156856
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:15.684554
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:31:16.186533
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -45.00 dBm
+
+Timestamp: 2025-04-17 15:31:16.743510
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+
+Timestamp: 2025-04-17 15:31:17.302242
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:31:17.822233
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -44.00 dBm
+
+Timestamp: 2025-04-17 15:31:18.434295
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -44.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:31:18.953788
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:31:19.479563
+MAC: 88:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -46.00 dBm
+
+Timestamp: 2025-04-17 15:31:19.981488
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -42.00 dBm
+
+Timestamp: 2025-04-17 15:31:20.528303
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:21.047172
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:31:21.574637
+MAC: 99:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+
+Timestamp: 2025-04-17 15:31:22.117586
+MAC: 44:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:31:22.647651
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+
+Timestamp: 2025-04-17 15:31:23.277796
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:31:23.831398
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:31:24.402493
+MAC: 66:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:31:24.932242
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:31:25.474895
+MAC: 66:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:31:26.159226
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -92.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+
+Timestamp: 2025-04-17 15:31:26.690979
+MAC: 66:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:31:27.206098
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -43.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+
+Timestamp: 2025-04-17 15:31:27.762834
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -41.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -54.00 dBm
+
+Timestamp: 2025-04-17 15:31:28.291047
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -43.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:31:28.847297
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+
+Timestamp: 2025-04-17 15:31:29.353124
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:31:29.855998
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:30.411645
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:31:30.951131
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:31:31.488456
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:31:32.001706
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:31:32.540618
+MAC: 44:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -63.00 dBm
+
+Timestamp: 2025-04-17 15:31:33.054466
+MAC: 44:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -98.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:31:33.571216
+MAC: 44:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:31:34.078627
+MAC: 44:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:31:34.599219
+MAC: 22:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -92.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -58.00 dBm
+
+Timestamp: 2025-04-17 15:31:35.151232
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+
+Timestamp: 2025-04-17 15:31:35.668833
+MAC: 44:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -91.00 dBm
+
+Timestamp: 2025-04-17 15:31:36.206817
+MAC: 44:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+
+Timestamp: 2025-04-17 15:31:36.725011
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:31:37.312239
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:31:37.822623
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:31:38.324147
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:31:38.832802
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:31:39.388143
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -45.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:39.896176
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:31:40.446662
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:31:41.190288
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:31:41.755179
+MAC: 44:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:31:42.267935
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+
+Timestamp: 2025-04-17 15:31:42.790573
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:43.356180
+MAC: 44:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -82.00 dBm
+
+Timestamp: 2025-04-17 15:31:44.004920
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -83.00 dBm
+
+Timestamp: 2025-04-17 15:31:44.588705
+MAC: 44:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -48.00 dBm
+
+Timestamp: 2025-04-17 15:31:45.130056
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -62.00 dBm
+
+Timestamp: 2025-04-17 15:31:45.638155
+MAC: 88:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:31:46.180650
+MAC: 88:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:31:46.690170
+MAC: 88:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+
+Timestamp: 2025-04-17 15:31:47.255194
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:31:47.808850
+MAC: 88:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+
+Timestamp: 2025-04-17 15:31:48.319162
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:31:48.849031
+MAC: 66:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:31:49.373794
+MAC: 66:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -44.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:49.976223
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:31:50.530424
+MAC: 66:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+
+Timestamp: 2025-04-17 15:31:51.124981
+MAC: 44:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+
+Timestamp: 2025-04-17 15:31:51.723828
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:52.249321
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:31:52.784624
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -53.00 dBm
+
+Timestamp: 2025-04-17 15:31:53.308642
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:53.903904
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+
+Timestamp: 2025-04-17 15:31:54.423762
+MAC: 88:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:55.015629
+MAC: 99:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:31:55.605738
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -66.00 dBm
+
+Timestamp: 2025-04-17 15:31:56.187971
+MAC: 66:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:31:56.697335
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -62.00 dBm
+
+Timestamp: 2025-04-17 15:31:57.205516
+MAC: 66:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:31:57.807266
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+
+Timestamp: 2025-04-17 15:31:58.371891
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -45.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+
+Timestamp: 2025-04-17 15:31:58.939210
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+
+Timestamp: 2025-04-17 15:31:59.455030
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+
+Timestamp: 2025-04-17 15:31:59.996188
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -90.00 dBm
+
+Timestamp: 2025-04-17 15:32:00.512476
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+
+Timestamp: 2025-04-17 15:32:01.034736
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -96.00 dBm
+
+Timestamp: 2025-04-17 15:32:01.633174
+MAC: 33:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+
+Timestamp: 2025-04-17 15:32:02.166830
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:32:02.701117
+MAC: 44:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -80.00 dBm
+
+Timestamp: 2025-04-17 15:32:03.333747
+MAC: 66:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -83.00 dBm
+
+Timestamp: 2025-04-17 15:32:03.866875
+MAC: 66:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -86.00 dBm
+
+Timestamp: 2025-04-17 15:32:04.406786
+MAC: 44:22:33:44:55:66, Average RSSI: -91.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -44.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -92.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -76.00 dBm
+
+Timestamp: 2025-04-17 15:32:05.059892
+MAC: 11:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -43.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -82.00 dBm
+
+Timestamp: 2025-04-17 15:32:05.582081
+MAC: 88:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:32:06.141020
+MAC: 44:22:33:44:55:66, Average RSSI: -92.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -56.00 dBm
+
+Timestamp: 2025-04-17 15:32:06.746360
+MAC: 88:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -85.00 dBm
+
+Timestamp: 2025-04-17 15:32:07.247532
+MAC: 88:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -42.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -86.00 dBm
+
+Timestamp: 2025-04-17 15:32:07.782008
+MAC: 88:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -93.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -87.00 dBm
+
+Timestamp: 2025-04-17 15:32:08.300669
+MAC: 88:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -90.00 dBm
+
+Timestamp: 2025-04-17 15:32:08.801339
+MAC: 88:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -82.00 dBm
+
+Timestamp: 2025-04-17 15:32:09.324456
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -94.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -85.00 dBm
+
+Timestamp: 2025-04-17 15:32:09.969624
+MAC: 88:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -54.00 dBm
+
+Timestamp: 2025-04-17 15:32:10.510769
+MAC: 88:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -58.00 dBm
+
+Timestamp: 2025-04-17 15:32:11.014489
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -57.00 dBm
+
+Timestamp: 2025-04-17 15:32:11.544066
+MAC: 55:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -56.00 dBm
+
+Timestamp: 2025-04-17 15:32:12.070079
+MAC: 11:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -55.00 dBm
+
+Timestamp: 2025-04-17 15:32:12.631574
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:13.223610
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:13.743705
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:32:14.266461
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+
+Timestamp: 2025-04-17 15:32:14.795371
+MAC: 88:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -45.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:32:15.305644
+MAC: 88:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:15.818901
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:32:16.331000
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:32:16.855464
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -82.00 dBm
+
+Timestamp: 2025-04-17 15:32:17.361178
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -79.00 dBm
+
+Timestamp: 2025-04-17 15:32:17.933850
+MAC: aa:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -85.00 dBm
+
+Timestamp: 2025-04-17 15:32:18.478935
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -81.00 dBm
+
+Timestamp: 2025-04-17 15:32:18.995161
+MAC: aa:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:32:19.513518
+MAC: 44:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:32:20.108997
+MAC: 99:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -80.00 dBm
+
+Timestamp: 2025-04-17 15:32:20.644693
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+
+Timestamp: 2025-04-17 15:32:21.186914
+MAC: 99:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+
+Timestamp: 2025-04-17 15:32:21.699857
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:22.200531
+MAC: aa:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -51.00 dBm
+
+Timestamp: 2025-04-17 15:32:22.703616
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -50.00 dBm
+
+Timestamp: 2025-04-17 15:32:23.211127
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -56.00 dBm
+
+Timestamp: 2025-04-17 15:32:23.711181
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:24.227414
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+
+Timestamp: 2025-04-17 15:32:24.739943
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:25.271956
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:32:25.817285
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:32:26.333079
+MAC: 99:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:32:26.976737
+MAC: 66:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+
+Timestamp: 2025-04-17 15:32:27.489881
+MAC: 66:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+
+Timestamp: 2025-04-17 15:32:27.994340
+MAC: 66:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:28.527366
+MAC: 66:22:33:44:55:66, Average RSSI: -46.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:29.061951
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:32:29.706704
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -75.00 dBm
+
+Timestamp: 2025-04-17 15:32:30.238923
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:32:30.788558
+MAC: 44:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:32:31.323789
+MAC: 22:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:31.871918
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:32:32.414805
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:32:32.948776
+MAC: 99:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:32:33.552752
+MAC: 11:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:32:34.073523
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:32:34.615573
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:32:35.174111
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:35.691645
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+
+Timestamp: 2025-04-17 15:32:36.219806
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+
+Timestamp: 2025-04-17 15:32:36.750462
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:32:37.253986
+MAC: 11:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:32:37.813300
+MAC: 55:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:32:38.355097
+MAC: 55:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+
+Timestamp: 2025-04-17 15:32:38.904370
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:32:39.449225
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:32:39.956099
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:32:40.467235
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:32:40.988194
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -44.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:32:41.514960
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -59.00 dBm
+
+Timestamp: 2025-04-17 15:32:42.046173
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -49.00 dBm
+
+Timestamp: 2025-04-17 15:32:42.563632
+MAC: 77:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+
+Timestamp: 2025-04-17 15:32:43.066892
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+
+Timestamp: 2025-04-17 15:32:43.603738
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -72.00 dBm
+
+Timestamp: 2025-04-17 15:32:44.124369
+MAC: aa:22:33:44:55:66, Average RSSI: -89.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:32:44.731718
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:32:45.295601
+MAC: 22:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -90.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -65.00 dBm
+
+Timestamp: 2025-04-17 15:32:45.891216
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:32:46.393677
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:32:46.928090
+MAC: 22:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:47.431217
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -60.00 dBm
+
+Timestamp: 2025-04-17 15:32:47.962988
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:32:48.471263
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -73.00 dBm
+
+Timestamp: 2025-04-17 15:32:49.090074
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -50.00 dBm
+
+Timestamp: 2025-04-17 15:32:49.599510
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:32:50.134358
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:32:50.710339
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+
+Timestamp: 2025-04-17 15:32:51.213579
+MAC: 11:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+
+Timestamp: 2025-04-17 15:32:51.782017
+MAC: 11:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:52.319327
+MAC: aa:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -74.00 dBm
+
+Timestamp: 2025-04-17 15:32:52.843793
+MAC: aa:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:32:53.380459
+MAC: 11:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -79.00 dBm
+
+Timestamp: 2025-04-17 15:32:53.917997
+MAC: aa:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -55.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -88.00 dBm
+
+Timestamp: 2025-04-17 15:32:54.448777
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -79.00 dBm
+
+Timestamp: 2025-04-17 15:32:55.077979
+MAC: 33:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -83.00 dBm
+
+Timestamp: 2025-04-17 15:32:55.650368
+MAC: 22:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -88.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -81.00 dBm
+
+Timestamp: 2025-04-17 15:32:56.159925
+MAC: 22:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -63.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:32:56.673731
+MAC: 22:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+
+Timestamp: 2025-04-17 15:32:57.174215
+MAC: 22:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -77.00 dBm
+
+Timestamp: 2025-04-17 15:32:57.676713
+MAC: 33:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:32:58.183893
+MAC: 99:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -67.00 dBm
+
+Timestamp: 2025-04-17 15:32:58.694818
+MAC: 77:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -56.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -48.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:32:59.210670
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -59.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:32:59.712889
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -73.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -68.00 dBm
+
+Timestamp: 2025-04-17 15:33:00.225289
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -86.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -50.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:33:00.749034
+MAC: 66:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -57.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -70.00 dBm
+
+Timestamp: 2025-04-17 15:33:01.350687
+MAC: 66:22:33:44:55:66, Average RSSI: -72.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -51.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -75.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+
+Timestamp: 2025-04-17 15:33:01.857625
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -64.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -53.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -76.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -85.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+
+Timestamp: 2025-04-17 15:33:02.442036
+MAC: 55:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -62.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -79.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -49.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -83.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+
+Timestamp: 2025-04-17 15:33:02.964082
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -60.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -52.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: aa:22:33:44:55:66, Average RSSI: -87.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -81.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:33:03.538185
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -74.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -82.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -51.00 dBm
+
+Timestamp: 2025-04-17 15:33:04.123488
+MAC: aa:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -67.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -61.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -78.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -77.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -54.00 dBm
+MAC: 77:22:33:44:55:66, Average RSSI: -84.00 dBm
+
+Timestamp: 2025-04-17 15:33:04.714179
+MAC: aa:22:33:44:55:66, Average RSSI: -84.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -66.00 dBm
+MAC: 55:22:33:44:55:66, Average RSSI: -68.00 dBm
+MAC: 22:22:33:44:55:66, Average RSSI: -65.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -70.00 dBm
+MAC: 99:22:33:44:55:66, Average RSSI: -80.00 dBm
+MAC: 11:22:33:44:55:66, Average RSSI: -47.00 dBm
+MAC: 44:22:33:44:55:66, Average RSSI: -78.00 dBm
+
+Timestamp: 2025-04-17 15:33:05.309168
+MAC: 22:22:33:44:55:66, Average RSSI: -58.00 dBm
+MAC: 88:22:33:44:55:66, Average RSSI: -71.00 dBm
+MAC: 66:22:33:44:55:66, Average RSSI: -69.00 dBm
+MAC: 33:22:33:44:55:66, Average RSSI: -68.00 dBm
+
